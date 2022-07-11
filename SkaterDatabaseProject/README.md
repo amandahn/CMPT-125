@@ -11,7 +11,7 @@ so not all of a skaters medals are counted. For example, Mao Asada won the
 World Championships in 2008, but this is not included in her total number of 
 medals. 
 
-Skaters with special characters/accent in their names have these characters 
+Skaters with special characters/accents in their names have these characters 
 absent for simplicities sake.
 
 As there are only two disciplines in the database, I implemented a sort by
