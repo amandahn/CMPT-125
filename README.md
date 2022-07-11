@@ -2,4 +2,4 @@
 
 _**Final Project: World Championship Figure Skaters Database**_
 
-- Utilized List ADTs to search, sort, add, and delete data in a ADT called _Database_
+- Utilizes a List ADT to search, sort, add, and delete data of a unique record type, skaters, in a database. This record type contains a skater's name, skating discipline, representing country, and the number of world championship medals won by this skater. The database has the ability to search, sort, add, and delete skaters using these various attributes.
