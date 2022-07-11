@@ -1,4 +1,5 @@
 # CMPT 125, Summer 2021 - Introduction to Computing Science and Programming II
+_Repository of class work done for CMPT 125: Introduction to Computing Science and Programming II_
 
 _**Final Project: World Championship Figure Skaters Database**_
 
