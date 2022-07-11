@@ -2,8 +2,7 @@ CMPT 125 Assignment 5
 =====================
 
 Amanda Ngo
-ahn9@sfu.ca
-301433193
+March 2022
 
 Limitations
 -----------
