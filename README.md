@@ -3,4 +3,4 @@ _Repository of class work done for CMPT 125: Introduction to Computing Science a
 
 _**Final Project: World Championship Figure Skaters Database**_
 
-- Written using Ubuntu, this application utilizes a List ADT (Abstract Data Type) to search, sort, add, and delete data of a unique record type in a database. This record type contains a skater's name, skating discipline, representing country, and number of world championship medals wonyy. 
+- Written using Ubuntu, this application utilizes a List ADT (Abstract Data Type) to search, sort, add, and delete data of a unique record type in a database. This record type contains a skater's name, skating discipline, representing country, and number of world championship medals won. 
