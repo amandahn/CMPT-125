@@ -1,6 +1,7 @@
 # makefile
 
 # Summer 2021 CMPT 125 SFML makefile template
+# Last Modified: July 19, 2022, by Amanda Ngo
 
 # Set the C++ compiler options:
 #   -std=c++17 compiles using the C++17 standard (or at least as 
