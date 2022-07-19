@@ -1,5 +1,5 @@
 // draw.cpp
-// Written by Toby Donaldson for CMPT 125
+// Written by Toby Donaldson for CMPT 125; modified by Amanda Ngo
 
 #include <iostream>
 #include <string>
