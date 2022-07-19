@@ -8,13 +8,9 @@
 #include <SFML/Graphics.hpp>
 
 // screen dimensions
-const int WIDTH  = 500; // don't change these two lines:
-const int HEIGHT = 500; // draw.cpp uses them
+const int WIDTH  = 500;
+const int HEIGHT = 500; 
 
-//
-// You must implement process_lines. You can add your own
-// helper functions if you like.
-//
 std::string colour;
 std::string shape;
 int width;
