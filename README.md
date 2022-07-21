@@ -7,7 +7,7 @@ _**Final Project: World Championship Figure Skaters Database**_
 
 _**Assignment 1: Rotating Red Square**_
 
-- Written using Ubuntu, this program produces a red square which can be rotated clockwise using the cursor and counterclockwise when holding the left mouse button. Utilzes SMFL in C++.
+- Written using Ubuntu, this program produces a red square which can be rotated clockwise using the cursor and counterclockwise when holding the left mouse button. Utilizes SMFL in C++.
 
 _**Assignment 1: A Drawing Language**_
 
